@@ -1,0 +1,24 @@
+/* style.css */
+@font-face {
+    font-family: 'Brush Script MT';
+    src: url('/fonts/brush-script-mt-kursiv.ttf') format('truetype'); 
+    font-weight: 400;
+    font-style: normal;
+  }
+.message-container {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 0.8em;
+    border-top: 1px dotted black;
+    border-bottom: 1px dotted black;
+     
+  }
+  
+  .brushing {
+    font-size: 1em;
+  }
+  
+  .date-info {
+    font-size: 0.6em;
+    color: grey;
+  }
+  
